@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>QWords</title>
+    <title>Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman</title>
     <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/png" href="/favicon.ico">
+    <link rel="shortcut icon" href="https://www.qwords.com/wp-content/uploads/2022/12/cropped-logo-qw-light-32x32.png" sizes="32x32" />
     <link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/assets/css/custom.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,6 +27,7 @@
       <?php include('components/parts/guarantee.php'); ?>
       <?php include('components/parts/solution.php'); ?>
       <?php include('components/parts/contact.php'); ?>
+      <?php include('components/core/footer.php'); ?>
    </div>
 
     
