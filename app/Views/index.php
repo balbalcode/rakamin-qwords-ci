@@ -16,7 +16,7 @@
     <style type="text/css">
        *{ font-family: 'Plus Jakarta Sans', sans-serif}
    </style>
-   <body>
+   <body style="overflow-x: hidden;">
 
    <div>
       <?php include('components/core/header.php'); ?>
@@ -24,6 +24,7 @@
       <?php include('components/parts/domain.php'); ?>
       <?php include('components/parts/package.php'); ?>
       <?php include('components/parts/featured-package.php'); ?>
+      <?php include('components/parts/guarantee.php'); ?>
       <?php include('components/parts/solution.php'); ?>
    </div>
 
