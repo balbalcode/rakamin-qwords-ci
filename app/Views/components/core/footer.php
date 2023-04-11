@@ -90,7 +90,7 @@
 </div>
 <div class="bg-dark" style="background: #333 !important">
   <div class="container-lg text-white ">
-    <div class="row px-2 py-3">
+    <div class="row ps-2 pe-5 py-3">
       <div class="col-12 col-lg-6 text-start">
         <i class="bx bx-sm bxl-facebook"></i>
         <i class="bx bx-sm bxl-instagram"></i>
