@@ -1,6 +1,6 @@
 
 <div class="" style="background: url('https://www.qwords.com/wp-content/themes/qwords/assets/images/shapes/webp/main-bg.webp')">
-	<div class="container-lg">
+	<div class="container-lg pt-5">
 		<div class="d-flex">
 			<div class="py-5 px-2">
 				<p class="fs-1 mt-3 fw-bold">

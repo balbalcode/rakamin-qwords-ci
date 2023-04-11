@@ -23,6 +23,8 @@
       <?php include('components/parts/banner.php'); ?>
       <?php include('components/parts/domain.php'); ?>
       <?php include('components/parts/package.php'); ?>
+      <?php include('components/parts/featured-package.php'); ?>
+      <?php include('components/parts/solution.php'); ?>
    </div>
 
     
