@@ -3,7 +3,8 @@ Please do not copy paste this code, make sure you can use creativity ur self to 
 
 ## How To Runs
 just clone into the folder that you want, then runs command below (make sure u're install php 7 or higher)
-`php spark serve`
+
+```php spark serve```
 
 ## Server Requirements
 
