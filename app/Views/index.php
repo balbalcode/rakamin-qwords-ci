@@ -26,6 +26,7 @@
       <?php include('components/parts/featured-package.php'); ?>
       <?php include('components/parts/guarantee.php'); ?>
       <?php include('components/parts/solution.php'); ?>
+      <?php include('components/parts/contact.php'); ?>
    </div>
 
     
